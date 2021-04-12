@@ -1,5 +1,7 @@
 - 👋 Hi, I’m David @davetassoni
-- 📫 How to reach me ... tassonidavid@yahoo.com
+- 📫 How to reach me ... 
+- tassonidavid@yahoo.com
+- dxt1757@rit.edu
 
 <!---
 BigDaveyT/BigDaveyT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
